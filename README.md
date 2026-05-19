@@ -1,11 +1,11 @@
 # Hi 👋, I'm Ibrahim
 
-Frontend Developer focused on building modern, scalable, and high-performance web applications with React, Next.js, and TypeScript.
+Frontend Developer focused on building modern, scalable, and high-performance web applications using React, Next.js, and TypeScript.
 
 ---
 
 ## 🚀 Currently Working On
-AI-powered applications and modern dashboard systems with clean UI, smooth UX, and production-ready architecture.
+Building AI-powered web applications and modern dashboard systems with clean UI, performance optimization, and scalable architecture.
 
 ---
 
@@ -23,34 +23,28 @@ Git • GitHub • VS Code • Postman
 ---
 
 ## 🌱 Currently Learning
-- Advanced Next.js architecture  
-- Backend system design  
-- Performance optimization  
-- Scalable full-stack applications  
+- Advanced Next.js architecture (App Router)
+- Backend system design
+- Performance optimization techniques
+- Scalable full-stack application development
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
-## 🔥 Top Projects (Pin These)
-- AI Dashboard App  
-- Full-Stack SaaS Application  
-- Authentication System (NextAuth / Firebase)  
-- Portfolio Website  
-- UI Component Library  
+## 📌 What I Do
+- Build modern dashboard applications  
+- Develop full-stack web applications  
+- Create responsive portfolio websites  
+- Design clean UI/UX interfaces  
+- Work on AI-based web tools  
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 - Email: shaikhibbu83@email.com  
 - Portfolio: https://your-portfolio-link.com  
+- LinkedIn: https://linkedin.com/in/your-profile  
 
 ---
 
-⚡ *Building clean, fast, and scalable digital experiences that solve real problems.*
+## ⚡ GitHub Goal
+Building clean, fast, and production-ready applications that solve real-world problems and deliver great user experience.
